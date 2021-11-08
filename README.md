@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @meifatang
-- 👀 I’m interested in engineering
-- 🌱 I’m currently learning Mechanical, Electronic, and Computer Science
-- 💞️ I’m looking to collaborate on Hack and Creative
+- Hi, I’m @meifatang
+- I’m interested in engineering
+- I’m currently learning Mechanical, Electronic, and Computer Science
+- I’m looking to collaborate on Hack and Creative
